@@ -130,4 +130,5 @@ dmypy.json
 
 # Other ignored file types
 .idea/
-*.png
+41043938_p0.png
+config_private.json

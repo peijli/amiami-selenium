@@ -3,6 +3,7 @@
     "email": "barbarakmathis@dayrep.com",
     "password": "bjDNZC8#AhQ@e2A"
   },
+  "driverPath": "C:/chromedriver_win32/chromedriver.exe",
   "testItems": [
     "CARD-00017579",
     "MED-CD2-41204",
